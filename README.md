@@ -1,0 +1,2 @@
+# WyrickStudios-legal
+Legal Information 
