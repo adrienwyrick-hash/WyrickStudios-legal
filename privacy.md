@@ -1,3 +1,10 @@
+---
+layout: default
+title: Privacy Policy for WS Drift
+---
+
+# Privacy Policy for WS Drift
+...rest of the file stays the same...
 # Privacy Policy for WS Drift
 
 _Last updated: May 29, 2026_
