@@ -60,5 +60,3 @@ If this privacy policy changes, the updated policy will be posted at this locati
 For questions about this privacy policy, open an issue at:
 
 <Info@wyrickstudios.com>
-
-Or email: **adrienwyrick@gmail.com**
