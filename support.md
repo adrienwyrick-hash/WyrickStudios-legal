@@ -8,7 +8,7 @@ Thank you for playing **WS Drift**, a wave-based arcade shooter for iPhone and i
 
 For any questions, bug reports, refund requests, account deletion help, or general feedback, email us at:
 
-📧 **Info@wyrickstudios.com**
+📧 **Contact@wyrickstudios.com**
 
 We reply within 2 business days.
 
@@ -49,7 +49,7 @@ https://reportaproblem.apple.com
 - **App name**: WS Drift
 - **Developer**: Wyrick Studios
 - **Platform**: iPhone, iPad (iOS / iPadOS)
-- **Support email**: Info@wyrickstudios.com
+- **Support email**: Contact@wyrickstudios.com
 - **Privacy Policy**: https://github.com/adrienwyrick-hash/WyrickStudios-legal/blob/main/privacy.md
 
 — Wyrick Studios
