@@ -38,4 +38,4 @@ You can reset your advertising identifier in iOS Settings, revoke Sign in with A
 ## Contact
 
 Wyrick Studios
-Email: adrienwyrick@gmail.com
+Email: Contact@wyrickstudios.com
